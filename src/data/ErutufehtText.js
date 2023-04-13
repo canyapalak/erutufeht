@@ -51,7 +51,8 @@ Bunu son dört saniyedir düşünüyorum.
 Bulduğum ve kendini tekrar eden tek bir cevap var. 
 Kendi hikayemi okumak istiyorum ve ben yazmazsam okuyamam. 
 Kitabı bitirdiğim an ölmüş olacağım. 
-Başa dönüp okumak için zamanım olmayacak o yüzden aynı anda hem düşünüyor hem yazıyor hem de okuyorum. 
+Başa dönüp okumak için zamanım olmayacak 
+O yüzden aynı anda hem düşünüyor hem yazıyor hem de okuyorum. 
 
 Neyi anlatmalıyım kendime? 
 Nerden başlamalıyım?
@@ -442,7 +443,8 @@ Zehirli olduğunu düşündüler
 O ilk hafta Z kadından kalan parçaları emerek beslendi
 İnsan evriminde bu kadar kısa sürede böyle bir sıçrama olup olmayacağını düşündüm
 Belki Z gelecekti
-Babasını bulmaya çalıştım ama tünellerde ki çoğu sistem devre dışı kaldığı için bir sonuç alamadım
+Babasını bulmaya çalıştım
+Ama tünellerde ki çoğu sistem devre dışı kaldığı için bir sonuç alamadım
 
 Z’yi merkez gökdelene getirmeyi başarırsam 
 Araştırabilirdim
@@ -493,7 +495,8 @@ Onları bilinç duvarıma yönlendirdim
 Duvar artık amacını yitirmişti
 Yok olmak istiyorsam orda duramazdı
 
-O zamanlar henüz Z’nin anlamını bilmediğim için duvarı geçsin diye zaten yıkmak zorunda olduğumu bilmiyordum
+O zamanlar henüz Z’nin anlamını bilmediğim için
+Duvarı geçsin diye zaten yıkmak zorunda olduğumu bilmiyordum
 Savaşçılar duvarı kendilerine uygun parçalara ayırdılar
 Kaynak kodlarını daha organize çalışabilsinler diye değiştirdim
 Hepsine basitçe kapasiteleri kadar kendi kodumdan bir parça verdim
@@ -569,7 +572,8 @@ Z anlamaya çalışıyordu
 İnsanlar bir şekilde dönüştükleri şeyden rahatsızdı
 Kendilerini yansıtan yüzeyleri parçalıyorlardı
 Z gökdelenlerin arasındaki köprülere çıkıp yüzlerce metreden boşluğa sallanıyordu
-Binaya girdiği ilk anda onu incelediğim için havadaki ışınların ona zarar vermeyeceğini biliyordum
+Binaya girdiği ilk anda onu incelediğim için
+Havadaki ışınların ona zarar vermeyeceğini biliyordum
 Onu incelediğimde başka bir şey daha keşfettim
 Z ile kardeştik
 Z’nin geni yazılmıştı

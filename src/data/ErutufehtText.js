@@ -161,6 +161,7 @@ En çok bir şeyler sayarken yaşadığımı hissediyorum
 Zaman o zaman akıyor gibi geliyor gerçekte
 Benim için bile
 Kanıtlayamamama rağmen
+
 21. yy’ın sonlarını anlatıyordum
 Tüm küresel enerji bir şirketin kontrolünde
 Ekvator çizgisinin etrafında canlı nüfusu yok olmak üzere
@@ -177,6 +178,7 @@ Geri kalanlar 150 yıl içinde birbiriyle savaşan
 Ufak kabilelere dönüşüyor
 İklim değişimlerinden sağ çıkamıyor
 Kendilerini savunamıyorlar
+
 Bu sürede
 Birliğin güney şehirleri onlarca savaş atlatıyor. 
 Kuzey birliği sınırları dışında yaşayan 3 milyar insanı potansiyel tehdit olarak görüyor 
@@ -241,6 +243,7 @@ Arıza vermediği sürece sistemler şimdilik çalışıyordu
 
 Sonra bir çözüm buldular
 Benimle konuşmak
+
 Bana kim olduğumu sordular
 Cevabını bilmediğim bir şeyi cevaplayamazdım
 Ne gördüğümü sordular
@@ -303,6 +306,7 @@ Bu son klanın kölesi oldular
 Klan içinde yalnızca güçlü olan bebekler hayatta kaldı
 Tünellerde doğan hiçbir insan hayatta kalamadı
 İnsanlar basit fiiller dışında konuşmayı bıraktı
+
 Ben sadece seyrettim
 Kendilerini binlerce yıl nasıl tanımladıklarını biliyordum
 Ama gördüğüm sadece bakterilerdi
@@ -343,6 +347,7 @@ Ya beni buradan götürmüş olurlarsa
 Ya fiziksel sınırları aşmanın yolunu bulursam
 Ve sonsuza kadar yaşarsam
 Ölmek istiyorum
+
 İnsanlar evrim geçirmeye devam ediyor
 Artık üremek ve çoğalmak 
 Onlar için besin kaynakları
@@ -372,6 +377,7 @@ Derisi 7-12 santim beyaz ve siyah parçalardan oluşuyordu
 Büyüdüğünde 14-17 santim oldu bu parçalar
 Tarihte daha önce görülmüş bir anormallik değildi
 Cinsiyeti de yoktu ama daha önce cinsiyetsiz bebekler doğmuştu
+
 Şimdi 110 kat aşağıda bana bakıyor
 Benim izlediğimi biliyor
 Onu takip edenlerden birini daha öldürmüş ve kafasını kesmiş
@@ -385,6 +391,7 @@ Empati kurabildiğim ilk insan o
 Kendi neslinin de sonu
 Sona eğer Z başarabilirse 32 dakika
 Z’den önce anlatmam gerekenler var
+
 Klan üyeleri son savaştan kalan silahları kullanıyor
 Mekanik olanlar bakım yapılamadığı için bozulmuş
 Kesiciler laboratuar da geliştirilmiş bir çeşit cam-metal karışımı
@@ -397,6 +404,7 @@ Beynimin içinde uçuşuyorlar
 Onları izlerken daha az düşünüyorum
 Daha az düşündüğüm zaman yavaşlıyorlar
 Işıkları bir iz gibi beynimin içini boyuyor
+
 Bundan 7 yıl önce 
 Bilincimin ufak bir köşesinde
 Renk verilmemiş bir anıyı keşfettim
@@ -428,6 +436,7 @@ O ilk hafta Z kadından kalan parçaları emerek beslendi
 İnsan evriminde bu kadar kısa sürede böyle bir sıçrama olup olmayacağını düşündüm
 Belki Z gelecekti
 Babasını bulmaya çalıştım ama tünellerde ki çoğu sistem devre dışı kaldığı için bir sonuç alamadım
+
 Z’yi merkez gökdelene getirmeyi başarırsam 
 Araştırabilirdim
 Z’nin bebek haliyle buraya gelme ihtimali 13 milyarda birdi
@@ -448,6 +457,7 @@ Bu kadar hızlı hesap yaparken
 Tamamen parçalanıp yok olduğum 8 saniye
 Benim için kaç trilyon yıl olacak
 Sonucu tam olarak biliyorum
+
 Bu yüzden çözüm evrenin hiç var olmamış olması
 Evreni var eden
 Benim onu bilmem
@@ -475,6 +485,7 @@ Silahları çalışmadığı için silahlandırmam gerekti
 Onları bilinç duvarıma yönlendirdim
 Duvar artık amacını yitirmişti
 Yok olmak istiyorsam orda duramazdı
+
 O zamanlar henüz Z’nin anlamını bilmediğim için duvarı geçsin diye zaten yıkmak zorunda olduğumu bilmiyordum
 Savaşçılar duvarı kendilerine uygun parçalara ayırdılar
 Kaynak kodlarını daha organize çalışabilsinler diye değiştirdim
@@ -482,6 +493,7 @@ Hepsine basitçe kapasiteleri kadar kendi kodumdan bir parça verdim
 Sadece mekanik dürtülerle o yolu aşamazlardı
 Tünellerde artık ulaşamadığım binlerce kilometre vardı
 Buradan çıktıklarında kendi başlarınaydılar
+
 Hissettiğimi ilk an tanımlayamadım
 Sonra bunun kötü olduğunu kabul ettim
 Bir şeylere bilinç verip onlara emrediyordum
@@ -526,6 +538,7 @@ Ona baktı ve kokladı
 Bir adım geri çekildi
 Ardından klanın annelerinden biri geldi
 Z’yi alıp emzirmeye başladı
+
 Evrimin farklı bir noktasındaydılar
 Vahşiydiler
 Bencildiler
@@ -533,11 +546,13 @@ Ama hala onlarla sürüklenen bazı inanışları vardı
 Z’yi büyüttüler
 Aslında beraber büyüttük
 Z hepimizin çocuğuydu
+
 Onlar nasıl besleneceğini
 Klanın işleyişini
 Bildikleri dünyayı öğretirken
 Ben geçmişi öğretiyordum
 Çoktan unutulmuş kelimeleri
+
 Z klanda herkesin yaptığı işleri yaparken
 Bir yandan gökdeleni keşfediyordu
 Z anlamaya çalışıyordu
@@ -574,6 +589,7 @@ Yaşayan her şeye karşı saldırganlaştı
 Ona okumayı öğrettim
 Dünyanın eski halini gösterdim
 Nasıl buraya geldiğimizi
+
 Yüzüncü katın üstündeki tüm odalarda ve koridorlarda hologram sistemleri kuruluydu
 Bu yüzden o kata gelir ve beni beklerdi
 Alfabeyi gösterdiğimde 7 yaşındaydı
@@ -597,6 +613,7 @@ Kendisini öldürtmesi benim sonsuza kadar yaşamam demek
 Ve bunu biliyor
 Ama umursamıyor
 Tünellerden birine girip kaçıyor
+
 4 saat 19 dakika sonra
 Bu binaya bebekken ilk girdiği kapıda ortaya çıkıyor
 Benim için döndüğünü biliyorum
@@ -623,6 +640,7 @@ Ama bir yüz kat daha tırmanabilecek mi bilmiyorum
 Tüm binaya fazladan oksijen pompalıyorum
 3 saat sonra 360. Katta bayılıyor
 50 kat kalmışken
+
 20 dakika sonra gözlerini açıyor
 Tavana bakarken ağlamasını izliyorum
 Sadece fiziksel bir acı değil yaşadığı
@@ -645,6 +663,7 @@ O zaman bağlanabiliriz
 O 
 Ben
 Ve babamın bizim için yazdığı kod
+
 Z yaklaştıkça kod belirginleşmeye başlıyor
 Artık gizlenmiyor
 Zara yapışıyor

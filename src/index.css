@@ -7,3 +7,8 @@ body {
   font-family: 'trump';
   src: url('./assets/Trump_Town_Pro.otf');
 }
+
+@font-face {
+  font-family: 'watcher';
+  src: url('./assets/WATCHER\ PERONAL\ USE.ttf');
+}

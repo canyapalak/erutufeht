@@ -13,24 +13,24 @@ export default function TextPanel() {
   }
 
   const isFirstPart = currentPart === 0;
-  const isLastPart = currentPart === 30;
+  const isLastPart = currentPart === 48;
 
   console.log("splittedText", splittedText);
 
   return (
     <>
-      <div className="p-10 text-justify   ">
-        <p className="text-lg text-green-400 font-trump">
+      <div className="m-10 flex items-center justify-center ">
+        <pre className="text-lg text-emerald-300 font-trump text-left w-1/3 opacity-90">
           {splittedText[currentPart]}
-        </p>
+        </pre>
       </div>
-      <div className="flex flex-row justify-around mt-5">
+      <div className="flex flex-row justify-around mt-5 gap-5">
         {!isFirstPart && (
           <button
             onClick={handleBackClick}
             className=" bg-emerald-300 rounded-md p-1 shadow-md font-trump text-lg"
           >
-            BACK
+            GERI
           </button>
         )}
         {!isLastPart && (
@@ -38,7 +38,7 @@ export default function TextPanel() {
             onClick={handleNextClick}
             className=" bg-emerald-300 rounded-md p-1 shadow-md font-trump text-lg"
           >
-            NEXT
+            ILERI
           </button>
         )}
       </div>

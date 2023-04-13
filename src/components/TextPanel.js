@@ -31,7 +31,7 @@ export default function TextPanel({
     return () => {
       document.body.removeEventListener("keydown", handleKeyDown);
     };
-  }, [currentPart, setStartAudio, setStartText]);
+  }, [currentPart, setStartAudio, setStartText, handleKeyDown]);
 
   return (
     <>

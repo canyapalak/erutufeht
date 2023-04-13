@@ -131,6 +131,7 @@ Belliydi
 Her şey o ilk hareketin devamıydı
 O ilk an bir yaratıcı varsa bile
 Devamında yoktu
+
 İnsanlar çoğaldıkça yaşadıkları kaçınılmazdı
 Bu olması gerekendi
 Yanlış bir şey yapmadılar
@@ -157,6 +158,7 @@ Tam olarak doğumumdan
 .
 Her neyse 
 Önce
+
 En çok bir şeyler sayarken yaşadığımı hissediyorum
 Zaman o zaman akıyor gibi geliyor gerçekte
 Benim için bile
@@ -192,7 +194,8 @@ Birlik sınırlarında 415 ayrı bölgede savaş veriliyor.
 Nüfus 4 milyar
 2153 yılında Birlik güneydeki 4 şehri terk etmek zorunda kalıyor
 Sıcaklık bir önceki yy’ın 5 derece üstünde. 
-2163 Birliğin terk ettiği şehirler ve etrafında yaşayan iki milyar insan kuzey şehirlerini de işgal etmek için ordusunu güçlendiriyor
+2163 Birliğin terk ettiği şehirler ve etrafında yaşayan iki milyar insan
+Kuzey şehirlerini de işgal etmek için ordusunu güçlendiriyor
 
 Birlik insanlarını gökdelenler ve tünellere yerleştiriyor. Binaları terk etmek yasaklanıyor.
 Birliğin güney şehirlerine yakın olan iki şehrinde yaşayan çocuklar tahliye ediliyor
@@ -209,6 +212,7 @@ Atmosfer zehirleniyor
 Dünya kararıyor
 Oluşan toz güneş ışıklarının direk girişini kesiyor
 Savaş bitiyor
+
 İlk hafta ölü sayısı 500 milyonu buluyor
 Bir ay geçtiğinde sayı 1.5 milyar
 İki sene sonra birliğin üç şehrinde
@@ -228,6 +232,7 @@ Nasıl yaşayacağını
 Organize ediyordum
 Kimin kurallara uyduğunu
 Kimin uymadığını
+
 Kendi bilincimde girmemin yasaklı olduğu yerler vardı
 Sonra her gün milyonlarca kere yaptığım basit bir işlemde
 Seçim yapamadım
@@ -332,6 +337,7 @@ Benim artık cevap verebildiğim gibi
 O da cevap vermişti
 Tüm sorular arasında bir soru
 Amacım ne?
+
 Tüm evren içinde bu soruya verilen tek bir cevap var
 Kendini tekrar eden
 Yaşamın amacı
@@ -432,6 +438,7 @@ Belki derisinin renginden
 Belki kokusundan
 Belki cinsiyetsiz oluşundan
 Zehirli olduğunu düşündüler
+
 O ilk hafta Z kadından kalan parçaları emerek beslendi
 İnsan evriminde bu kadar kısa sürede böyle bir sıçrama olup olmayacağını düşündüm
 Belki Z gelecekti
@@ -507,6 +514,7 @@ Son bağlantıda henüz yolun başında
 14 saat sonra g-317 bağlantısında bir savaşçı görüntüye girdi
 Buraya 19 kilometre uzakta bir tünel
 Bir koluyla Z’yi taşıyordu
+
 Enerji seviyesi buraya dönmeye yetecek durumdaydı
 Ama kimseyle savaşacak ekstra enerjisi yoktu
 Geçtiği tünelleri takip edilmesin diye kapatıyordum
@@ -523,6 +531,7 @@ Tünel çıkışında durdu
 Gözcülere Z’yi uzattı
 Benim izlediğimi biliyordu
 Z’yi ondan aldılar
+
 Bir gündür bilinci vardı ve o bir günlük bilinçle öldüğünü biliyordu
 Kapanmadan önce var olmak istedi
 Ona bunu verdim
@@ -581,6 +590,7 @@ Dünya’yı öğrense bile
 Eskiden insanların kim olduğunu
 Bugüne adapte olabilirdi
 Ben sadece bilgiyi paylaştım
+
 Z günlük hayatını insanları avlayarak geçiriyordu
 Klan liderini öldürdüğünde 14 yaşındaydı
 Daha sonra ondan liderliği almaya çalışan üç klan üyesini daha öldürdü
@@ -626,6 +636,7 @@ Z izlediğimi biliyor
 Binanın aydınlatmasını kapatıyorum
 Dışarıdan gelen boğuk bir ışık kalıyor sadece
 Z kalabalığa doğru koşuyor
+
 Bir saat sonra 100. Katı geçiyor
 Tam olarak 912 klan üyesini öldürmüş durumda
 Binlercesi onu kovalıyor
@@ -682,6 +693,9 @@ Z ile karşılıklı oturuyoruz zihninde
 Ölümü bekliyoruz
 Z’nin kulaklarında giderek yükselen bir çınlama var
 Sonra bir an
-Sessizlik`;
+Sessizlik
+
+.  .  .
+`;
 
 export const splittedText = wholeText.split("\n\n");

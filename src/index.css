@@ -12,3 +12,35 @@ body {
   font-family: 'watcher';
   src: url('./assets/WATCHER\ PERONAL\ USE.ttf');
 }
+
+.slide-right {
+  animation-name: slideRight;
+  animation-duration: 0.4s;
+}
+
+@keyframes slideRight {
+  from {
+    transform: translateX(-20%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  animation-name: fadeIn;
+  animation-duration: 30s;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}

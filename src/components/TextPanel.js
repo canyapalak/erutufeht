@@ -1,45 +1,61 @@
 import { useState } from "react";
 import { splittedText } from "../data/ErutufehtText.js";
+import { useEffect } from "react";
+import { MdReplay } from "react-icons/md";
 
-export default function TextPanel() {
+export default function TextPanel({
+  setStartAudio,
+  startText,
+  setStartText,
+  setReset,
+}) {
   const [currentPart, setCurrentPart] = useState(0);
 
-  function handleNextClick() {
-    setCurrentPart(currentPart + 1);
+  const handleKeyDown = (event) => {
+    if (event.code === "Space") {
+      setStartText(true);
+      setStartAudio(true);
+    } else if (event.code === "ArrowRight" && currentPart < 60) {
+      setCurrentPart(currentPart + 1);
+    } else if (event.code === "ArrowLeft" && currentPart > 0) {
+      setCurrentPart(currentPart - 1);
+    }
+  };
+
+  function handleResetClick() {
+    setReset(true);
   }
 
-  function handleBackClick() {
-    setCurrentPart(currentPart - 1);
-  }
-
-  const isFirstPart = currentPart === 0;
-  const isLastPart = currentPart === 48;
-
-  console.log("splittedText", splittedText);
+  useEffect(() => {
+    document.body.addEventListener("keydown", handleKeyDown);
+    return () => {
+      document.body.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [currentPart, setStartAudio, setStartText]);
 
   return (
     <>
-      <div className="m-10 flex items-center justify-center ">
-        <pre className="text-lg text-emerald-300 font-trump text-left w-1/3 opacity-90">
-          {splittedText[currentPart]}
-        </pre>
-      </div>
-      <div className="flex flex-row justify-around mt-5 gap-5">
-        {!isFirstPart && (
-          <button
-            onClick={handleBackClick}
-            className=" bg-emerald-300 rounded-md p-1 shadow-md font-trump text-lg"
-          >
-            GERI
-          </button>
-        )}
-        {!isLastPart && (
-          <button
-            onClick={handleNextClick}
-            className=" bg-emerald-300 rounded-md p-1 shadow-md font-trump text-lg"
-          >
-            ILERI
-          </button>
+      <div className="flex flex-col">
+        {startText && (
+          <div>
+            <div className="m-10 flex items-center justify-center ">
+              {currentPart === 60 ? (
+                <div className="fade-in ">
+                  <p className="text-zinc-300 font-watcher text-center text-7xl tracking-widest mt-20">
+                    ERUTUFEHT
+                  </p>
+                  <MdReplay
+                    className="text-zinc-300 text-4xl text-center mx-auto mt-5 cursor-pointer"
+                    onClick={handleResetClick}
+                  />
+                </div>
+              ) : (
+                <pre className="text-lg text-emerald-300 font-trump text-left w-1/3 opacity-80 fade-in">
+                  {splittedText[currentPart]}
+                </pre>
+              )}
+            </div>
+          </div>
         )}
       </div>
     </>

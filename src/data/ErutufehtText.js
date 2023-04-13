@@ -696,6 +696,8 @@ Sonra bir an
 Sessizlik
 
 .  .  .
+.
+.
 `;
 
 export const splittedText = wholeText.split("\n\n");

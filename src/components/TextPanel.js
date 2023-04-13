@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useCallback } from "react";
 import { splittedText } from "../data/ErutufehtText.js";
 import { useEffect } from "react";
 import { MdReplay } from "react-icons/md";
@@ -11,16 +11,19 @@ export default function TextPanel({
 }) {
   const [currentPart, setCurrentPart] = useState(0);
 
-  const handleKeyDown = (event) => {
-    if (event.code === "Space") {
-      setStartText(true);
-      setStartAudio(true);
-    } else if (event.code === "ArrowRight" && currentPart < 60) {
-      setCurrentPart(currentPart + 1);
-    } else if (event.code === "ArrowLeft" && currentPart > 0) {
-      setCurrentPart(currentPart - 1);
-    }
-  };
+  const handleKeyDown = useCallback(
+    (event) => {
+      if (event.code === "Space") {
+        setStartText(true);
+        setStartAudio(true);
+      } else if (event.code === "ArrowRight" && currentPart < 60) {
+        setCurrentPart(currentPart + 1);
+      } else if (event.code === "ArrowLeft" && currentPart > 0) {
+        setCurrentPart(currentPart - 1);
+      }
+    },
+    [currentPart, setStartAudio, setStartText]
+  );
 
   function handleResetClick() {
     setReset(true);
@@ -31,7 +34,7 @@ export default function TextPanel({
     return () => {
       document.body.removeEventListener("keydown", handleKeyDown);
     };
-  }, [currentPart, setStartAudio, setStartText, handleKeyDown]);
+  }, [currentPart, handleKeyDown, setStartAudio, setStartText]);
 
   return (
     <>

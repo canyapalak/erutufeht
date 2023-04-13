@@ -50,7 +50,7 @@ export default function TextPanel({
                   />
                 </div>
               ) : (
-                <pre className="text-lg text-emerald-300 font-trump text-left w-1/3 opacity-80 fade-in">
+                <pre className="text-lg text-emerald-300 font-solid text-left w-1/3 opacity-80 fade-in">
                   {splittedText[currentPart]}
                 </pre>
               )}

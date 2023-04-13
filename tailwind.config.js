@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        trump: "trump",
+        solid: "solid",
         watcher: "watcher",
       },
     },

@@ -41,7 +41,7 @@ export default function ControlPanel({ muted, setMuted, startText }) {
         />
         {isInfo && (
           <div>
-            <p className="text-zinc-300 slide-right ">SPACE??? BACK???</p>
+            <p className="text-zinc-300 slide-right ">SPACE??? ARROWS???</p>
           </div>
         )}
       </div>
